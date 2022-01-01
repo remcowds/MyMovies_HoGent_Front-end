@@ -1,0 +1,90 @@
+[
+	{
+		"movieID": 1,
+		"title": "The Shawshank Redemption",
+		"yearOfRelease": 1994,
+		"rating": 9.3,
+		"durationInMinutes": 142,
+		"linkMov": "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg",
+		"category": {
+			"categoryID": 3,
+			"categoryName": "Drama",
+			"description": null,
+			"linkCat": "https://images.unsplash.com/photo-1572851899646-a1f69c664e1e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+		},
+		"director": {
+			"directorID": 1,
+			"lastName": "Darabont",
+			"firstName": "Frank",
+			"birthdate": "1959-01-28",
+			"country": "France",
+			"linkDir": "https://m.media-amazon.com/images/M/MV5BNjk0MTkxNzQwOF5BMl5BanBnXkFtZTcwODM5OTMwNA@@._V1_UY264_CR17,0,178,264_AL_.jpg"
+		}
+	},
+	{
+		"movieID": 2,
+		"title": "The Godfather",
+		"yearOfRelease": 1972,
+		"rating": 9.2,
+		"durationInMinutes": 175,
+		"linkMov": "https://media.s-bol.com/xkqpRqQ88mLl/550x788.jpg",
+		"category": {
+			"categoryID": 3,
+			"categoryName": "Drama",
+			"description": null,
+			"linkCat": "https://images.unsplash.com/photo-1572851899646-a1f69c664e1e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+		},
+		"director": {
+			"directorID": 2,
+			"lastName": "Ford Coppola",
+			"firstName": "Francis",
+			"birthdate": "1939-04-07",
+			"country": "USA",
+			"linkDir": "https://upload.wikimedia.org/wikipedia/commons/4/41/Francis_Ford_Coppola.jpg"
+		}
+	},
+	{
+		"movieID": 3,
+		"title": "The Dark Knight",
+		"yearOfRelease": 2008,
+		"rating": 9,
+		"durationInMinutes": 152,
+		"linkMov": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/826e20d747af639e2e2c3a95662283eabc6a6216a9bb74fc45cb1c29f2708b96._RI_V_TTW_.jpg",
+		"category": {
+			"categoryID": 1,
+			"categoryName": "Action",
+			"description": "war, martial arts, guns",
+			"linkCat": "https://images.unsplash.com/photo-1598389759169-4e0c192c6816?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=449&q=80"
+		},
+		"director": {
+			"directorID": 3,
+			"lastName": "Nolan",
+			"firstName": "Christopher",
+			"birthdate": "1970-07-30",
+			"country": "UK",
+			"linkDir": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Christopher_Nolan%2C_London%2C_2013_%28crop%29.jpg"
+		}
+	},
+	{
+		"movieID": 4,
+		"title": "Forrest Gump",
+		"yearOfRelease": 1994,
+		"rating": 8.8,
+		"durationInMinutes": 142,
+		"linkMov": "https://occ-0-1722-1723.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABVyJhGPDVon6krEtJyk-IT3lb8ixBh984BtohkPQ1aLVSZ4p9PhkAqX-UFzuzvcW-S82q97oix0kuQwQ34oBwhhWjWtL.jpg?r=9f4",
+		"category": {
+			"categoryID": 2,
+			"categoryName": "Romance",
+			"description": "love, romantic, sex",
+			"linkCat": "https://images.unsplash.com/photo-1494403687614-8ca3e13f154f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80"
+		},
+		"director": {
+			"directorID": 4,
+			"lastName": "Zemeckis",
+			"firstName": "Robert",
+			"birthdate": "1951-05-14",
+			"country": "USA",
+			"linkDir": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Robert_Zemeckis_%22The_Walk%22_at_Opening_Ceremony_of_the_28th_Tokyo_International_Film_Festival_%2821835891403%29_%28cropped%29.jpg"
+		}
+	}
+]
